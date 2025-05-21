@@ -1,0 +1,16 @@
+Agent,Map,Num_Agents,Num_Packages,Total_Reward,Delivered_Packages,Total_Steps
+GreedyAgent,maps/map1.txt,5,100,39.41000000000002,4,1000
+OptimizedFlowAgent,maps/map1.txt,5,100,396.81000000000716,58,1000
+DeepQAgent,maps/map1.txt,5,100,-178.96000000000006,0,1000
+GreedyAgent,maps/map2.txt,5,100,48.81000000000002,5,1000
+OptimizedFlowAgent,maps/map2.txt,5,100,168.35999999999817,33,1000
+DeepQAgent,maps/map2.txt,5,100,-105.34999999999998,0,1000
+GreedyAgent,maps/map3.txt,5,500,29.139999999999958,3,1000
+OptimizedFlowAgent,maps/map3.txt,5,500,226.11000000000007,52,1000
+DeepQAgent,maps/map3.txt,5,500,-302.1299999999994,0,1000
+GreedyAgent,maps/map4.txt,10,500,48.01000000000003,5,1000
+OptimizedFlowAgent,maps/map4.txt,10,500,-14.239999999999938,8,1000
+DeepQAgent,maps/map4.txt,10,500,-391.6899999999985,0,1000
+GreedyAgent,maps/map5.txt,10,1000,19.179999999999957,3,1000
+OptimizedFlowAgent,maps/map5.txt,10,1000,80.97999999999918,34,1000
+DeepQAgent,maps/map5.txt,10,1000,-751.9900000000027,0,1000
